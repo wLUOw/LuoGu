@@ -1,2 +1,2 @@
 # LuoGu
-LuoGu exercising
+LuoGu exercising!
